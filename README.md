@@ -1,1 +1,1 @@
-# Deep-State-Machine
+# Deep-State-Machine: Generative Model for Graph Generation
