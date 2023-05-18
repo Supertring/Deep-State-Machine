@@ -23,8 +23,13 @@
 
 
 ![Deep State Machine](Deep-State-Machine.jpg)
-
+	
 # Graph Deconstruction Tree Model: 
+	- Non-deterministic approach of graph traversal
+	- Navigates several alternative paths through which graphs can be generated
+	- Generates construction sequence through deconstruction & construction method
+	- Policy of randomly transitioning between simple to complex valid decision operations
+	
 <div align="center">
 	<img src="gdtm.jpg" alt="gdtm" width="700" height="700">
 </div>
