@@ -1,10 +1,10 @@
 # Deep-State-Machine: Generative Model for Graph Generation
 	- Deep Auto-Regressive Machines for Graph Construction
 
-# DGMG, DeepGG, GraphRNN
+# DGMG, DeepGG, GraphRNN: Previous Research
  	- Basic two states, [add node, add edge]
  	- Simple and non-customizable states
- 	- Traversal algorithm: bfs, dfs,... for construction sequence generation
+ 	- Traversal algorithm: bfs, dfs,...
  	- Parameterized construction sequencess
  	- Learning embeddings of either node or edge in a single state
 
@@ -31,6 +31,6 @@
 	- Policy of randomly transitioning between simple to complex valid decision operations
 	
 <div align="center">
-	<img src="gdtm.jpg" alt="gdtm" width="700" height="700">
+	<img src="gdtm.jpg" alt="gdtm" width="720" height="700">
 </div>
 
