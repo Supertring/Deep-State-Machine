@@ -25,7 +25,7 @@
 ![Deep State Machine](Deep-State-Machine.jpg)
 
 # Graph Deconstruction Tree Model: 
-<div style="text-align:center">
-	<img src="gdtm.jpg" alt="gdtm" width="500" height="600">
+<div align="center">
+	<img src="gdtm.jpg" alt="gdtm" width="700" height="700">
 </div>
 
