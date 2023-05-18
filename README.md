@@ -2,5 +2,5 @@
 
 ![Deep State Machine](Deep-State-Machine.jpg)
 
-#Graph Deconstruction Tree Model: 
-![Graph Deconstruction Tree Model](gdtm.jpg){:height="50px" width="50px"}
+# Graph Deconstruction Tree Model: 
+![Graph Deconstruction Tree Model](gdtm.jpg){:width="400px" height="400px"}
