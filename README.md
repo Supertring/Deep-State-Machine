@@ -1,4 +1,5 @@
 # Deep-State-Machine: Generative Model for Graph Generation
+	- Deep Auto-Regressive Machines for Graph Construction
 
 - DGMG, DeepGG, GraphRNN
  	- Basic two states, [add node, add edge]
@@ -8,7 +9,7 @@
  	- Learning embeddings of either node or edge in a single state
 
  
-- Deep State Machine  (DSM)
+- Deep State Machine (DSM): Envisioned a novel appraoch for learning and generating graphs.
 	- Multiple states
 	- Complex states
 	- Customizable states
@@ -24,4 +25,5 @@
 ![Deep State Machine](Deep-State-Machine.jpg)
 
 # Graph Deconstruction Tree Model: 
-![Graph Deconstruction Tree Model](gdtm.jpg)
+<img src="gdtm.jpg" alt="gdtm" width="400" height="400">
+
