@@ -1,4 +1,4 @@
-# Deep-State-Machine: Generative Model for Graph Generation
+# Deep-State-Machine: Generative Model for Graph Generation <a href="https://github.com/Supertring/papers/blob/main/Deep%20Auto-Regressive%20Machines%20for%20Graph%20Construction.pdf" target="_blank">Thesis Book</a>
 	- Deep Auto-Regressive Machines for Graph Construction
  
 # Deep State Machine (DSM): Envisioned a novel appraoch for learning and generating graphs.
